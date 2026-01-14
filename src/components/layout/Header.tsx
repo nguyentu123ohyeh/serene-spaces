@@ -39,7 +39,7 @@ const Header = () => {
             to="/"
             className="font-serif text-xl md:text-2xl tracking-tight transition-opacity hover:opacity-70"
           >
-            Serene Sanctuary
+            Alandria Robinson
           </Link>
 
           {/* Desktop Navigation */}

@@ -10,7 +10,7 @@ const Footer = () => {
           {/* Brand */}
           <div className="md:col-span-2">
             <Link to="/" className="font-serif text-2xl tracking-tight">
-              Serene Sanctuary
+              Alandria Robinson
             </Link>
             <p className="mt-4 text-body text-muted-foreground max-w-sm">
               Crafted for 8 hours of bliss. We believe in better dreams through 
@@ -56,7 +56,7 @@ const Footer = () => {
         {/* Bottom Footer */}
         <div className="flex flex-col md:flex-row items-center justify-between gap-6">
           <p className="text-xs text-muted-foreground">
-            © 2024 Serene Sanctuary. All rights reserved.
+            © 2024 Alandria Robinson. All rights reserved.
           </p>
 
           {/* Social Links */}
